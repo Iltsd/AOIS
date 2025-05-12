@@ -1,0 +1,5 @@
+LITERALS = "ABCD"  # A, B, C для ОДС-3; A=X3, B=X2, C=X1, D=X0 для Д8421
+LEN_OF_TETRADA = 4
+LOGIC = [0, 1]
+BINARY_OPERANDS = "&|>"
+UNARY_OPERANDS = "!"
